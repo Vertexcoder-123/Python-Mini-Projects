@@ -84,7 +84,7 @@ for i in birthday:
 # for d in birthday:
 #     print(d)
 
-# # ✅ Detect duplicates correctly (without repeating output)
+#  Detect duplicates correctly (without repeating output)
 # print("\nRepeated day_of_year values:")
 # seen = set()
 # duplicates = set()
@@ -95,7 +95,7 @@ for i in birthday:
 #         seen.add(d)
 # print(duplicates if duplicates else "None")
 
-# # ✅ Detect repeated full dates
+#   Detect repeated full dates
 # print("\nRepeated full dates:")
 # seen_dates = set()
 # duplicates_dates = set()
