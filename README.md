@@ -56,10 +56,10 @@ A hangman-style game for guessing movie titles.
 
 Concepts: strings, loops, random
 
-(And more small projects related to algorithms and logic building.)
+(More small projects related to algorithms and logic building.)
 
 🛠 Technologies Used
 
 Language: Python 3
 
-Modules: random, string, math
+Modules: random, string, math, matplotlib 
